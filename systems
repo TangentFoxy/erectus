@@ -1,0 +1,12 @@
+Systems
+- Movement, done.
+- Fluid physics, done.
+- Fluid handling.
+  - Filters to allow transferring only one type of fluid at a time, done.
+  - Pumps to allow transferring from low pressure to high pressure, done.
+- Needs (sleep, food, air, water, waste disposal).
+  - Sleep timer refreshed by skipping some time. Events can interrupt sleep.
+    Will pass out and not be awoken for a while if you let it get too low.
+  - Food & Water. (Consumable items.)
+  - Air. Regularly removing oxygen and adding co2 and h20.
+  - Waste. Liquid (urea(co2&ammonia)&h2o) and Solid ('organic waste'?)

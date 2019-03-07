@@ -1,0 +1,23 @@
+     abstract-029 -> fuel cell!
+USED abstract-045 -> filterpump?
+     abstract-050 -> vent (for filters/pumps)!
+     abstract-072 -> thruster!
+     airtight-hatch -> closed airlock!
+     airtight-hatch-1 -> open airlock!
+     ammo-box -> ammo?
+USED chemical-tank -> tanks!
+     circuitry -> computer
+     convergence-target -> ?
+     cryo-chamber -> clone bay!
+     energy-tank -> ?
+     expanded-rays -> antimatter reactor!
+     hospital-cross -> medical cabinet?
+     metal-scales -> ?
+     paper-tray -> ?
+USED person -> you!
+USED plain-square -> flooring / internal space!
+     power-generator -> fabricator!
+     targeted -> ?
+     tinker -> repair needed icon ?
+     triangle-target -> ?
+     wooden-crate -> cargo space? (or actual cargo?)

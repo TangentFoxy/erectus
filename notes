@@ -1,0 +1,34 @@
+Survival in ship, console / UI is only interface, must repair broken systems.
+Walk around to repair various panels.
+Randomly generated ship layout?
+
+What systems are needed? Toilet, bed, medical cabinet, thrusters, warp drive,
+ reactor, battery, fuel / fluid storage, airlock, computer, sensors, weapons?,
+ cargo area, grappling hook / docking system, piping and wiring of course,
+ filters, pumps, atmospheric sensors, lights, toolbox, locker
+
+How about a starbase instead? Starting with just a small number of components,
+and events come to you.
+- Could still implement travel, just through warp drive only. You have station-
+  keeping thrusters to maintain, but no main engines.
+- If you lose thrusters, your orbit starts slowly decaying (you can still just
+  warp to a higher orbit of course)
+- Start to fall into atmosphere? Can scoop from upper atmospheres, but starts to
+  decay faster.
+- Send out mining drones.
+- 3D Printing tech? For manufacture? fluid plastic
+
+Each tile needs to reference a Fluid (atmosphere). Volumes of atmosphere Fluids
+are equal to 10 per tile. Volumes of single tanks are 8 per.
+Doubles: 4   Triples: 3
+
+Start:
+- basic life support: bed, toilet, kitchen, atmospheric sensor, filter, pump,
+  tankage (o2, co2, n2)
+  (maybe I should use the scuba tanks icon for multiple tanks in one spot?)
+- one thruster, uses n2
+- battery, solar panels? (start in orbit close enough to a star?)
+- warp drive, barely capable of warping your station
+- docking arm / airlock (airlock at end of pylon)
+- computer, basic sensors?, filters/pumps?, lights?
+- locker w toolbox (locker is our cargo space to start)

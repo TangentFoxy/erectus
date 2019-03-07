@@ -1,0 +1,60 @@
+21% normal
+5% consumption
+volume of breath? 6 litres
+16 breaths per minute
+our units are approximately 1/5 a litre
+
+6 * 1/5 * 16 / 60 * 0.05 = oxygen per second rate = 0.016
+
+co2
+> 0.0008 is unhealthy
+> 0.005 is very unhealthy
+> 0.05 is dangerous to animal life (becomes uncomfortable as well)
+> 0.084 for 60 minutes = death
+> 0.1 is immediately dangerous
+
+o2 below 19.5% is considered dangerous
+0.47 pressure at 21% is lowest pressure
+- 5 to 8 psi for 100% is tolerable (1 psi = 0.068046 atm)
+  (should be roughly 0.12 atm (minimum at 100%))
+2.5 atm at 21% should be a safe maximum, short periods in excess of 70 atm are tolerable
+
+Min Pressure: 0.12 atm with pure oxygen
+Max Pressure with pure oxygen: 0.5 atm
+Min Pressure w 19.5-21%: 0.47 atm
+Max Pressure with 19.5-21%: 2.5 atm
+- draw a box, current point has to be in the box? NO
+if oxygen < 0.195 -> dying
+if pressure < 0.12 -> dying
+if pressure < 0.47
+  if oxygen < -2.3(pressure) + 1.276 -> dying
+if pressure > 0.5
+  if oxygen > -.054(pressure) + 0.33 -> oxy toxicity
+if pressure > 2.5 -> oxy toxicity
+
+min pressures: 0.12 and 0.47
+max pressures: 0.5  and 2.5
+min percents:  1    and 1
+max percents
+
+
+feces
+  3-8oz per day -> * 0.0295735 / 5 = volume units
+  = 0.03253085 / 24 / 60 / 60 = 3.7651446759259e-07 per second
+  75% water, 25% solid (below list)
+0.3 -> bacteria
+0.3 -> cellulose (can be burned -> co2 h2o)
+0.1-0.2 -> fats
+0.1-0.2 -> phosphates (iron/calcium)
+0.02-0.03 -> proteins
+
+(one urination ~ 0.35 / 5 volume)
+ per day => 0.8 to 2 litres
+ per second = 3.2407407407407e-06
+urine
+~0.04 urea (ammonia/co2)
+~0.01 salt, potassium
+0.95 water
+
+0.4 litres of water expelled in breath per day
+per second: 0.4 / 5 / 24 / 60 / 60 = 9.2592592592593e-07
